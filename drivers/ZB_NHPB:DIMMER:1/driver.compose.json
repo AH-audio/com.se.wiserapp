@@ -1,5 +1,5 @@
 {
-  "id": "ZB_1GANG_DIMMER_1",
+  "id": "ZB_NHPB/DIMMER/1",
   "name": {
     "no": "Trykkdimmer",
     "sv": "Tryckdimmer",
@@ -18,7 +18,7 @@
   },
   "zigbee": {
     "manufacturerName": "Schneider Electric",
-    "productId": "1GANG/DIMMER/1",
+    "productId": "NHPB/DIMMER/1",
     "learnmode": {
       "image": "{{driverAssetsPath}}/learnmode.svg",
       "instruction": {
