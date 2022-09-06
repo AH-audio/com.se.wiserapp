@@ -1,11 +1,11 @@
 {
-  "id": "com.se.wiserapp.ah",
+  "id": "com.se.wiserappah",
   "version": "0.3.0",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "brandColor": "#3DCD58",
   "name": {
-    "en": "Schneider Electric"
+    "en": "Schneider Electric - ah"
   },
   "description": {
     "en": "A smarter home with Schneider."
